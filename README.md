@@ -1,6 +1,6 @@
 # Pokemon-Game-Freak-Tableau-Analysis-V2
 
-![First](Screenshots/Slide 1.png)
+![First](Screenshots/Slide%201.png)
 ![Second](Screenshots/Slide 2.png)
 ![Third](Screenshots/Slide 3.png)
 ![Forth](Screenshots/Slide 4.png)
