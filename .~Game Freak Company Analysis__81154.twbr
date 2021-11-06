@@ -1330,7 +1330,7 @@
             <zone h='3423' id='3' type-v2='title' w='98426' x='787' y='830' />
             <zone h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='98426' x='787' y='4253' />
             <zone h='84440' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='98426' x='787' y='14730'>
-              <flipboard active-id='6' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='9' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point captured-sheet='Question' id='6' />
                   <story-point captured-sheet='' id='7' />
@@ -1381,7 +1381,7 @@
             <run fontname='Chalkduster'>We can see that through the years the User Scores start declining steadily in correlation to their sales except when a new console comes out and then sales will sky rocket but the User Scores are still declining</run>
           </formatted-text>
         </zone>
-        <zone flipboard-zone-id='5' forceUpdate='true' h='52593' hidden='true' id='8' story-point-id='9' type-v2='text' w='72539' x='14961' y='29668'>
+        <zone flipboard-zone-id='5' forceUpdate='true' h='52593' id='8' story-point-id='9' type-v2='text' w='72539' x='14961' y='29668'>
           <formatted-text>
             <run fontname='Chalkduster'>What this shows is that Game Freak is really cutting corners when it comes to releasing content to the users just for the sake of sales. I believe that if they put more effort in the development of content the Users will be happy and the ratings will go back up.</run>
           </formatted-text>
@@ -1549,7 +1549,7 @@
       <simple-id uuid='{EFE02B0F-F8D8-4C26-90A2-386BCC94F751}' />
     </dashboard>
   </dashboards>
-  <windows source-height='30'>
+  <windows pres-mode='true' source-height='30'>
     <window class='worksheet' name='GBA Score'>
       <cards>
         <edge name='left'>
@@ -1847,7 +1847,7 @@
           <zoom type='fit-width' />
         </viewpoint>
       </viewpoints>
-      <active id='5' />
+      <active id='-1' />
       <simple-id uuid='{1601329C-1A87-45F0-B307-7305F081A544}' />
     </window>
     <window class='dashboard' maximized='true' name='Story'>
